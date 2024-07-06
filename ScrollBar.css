@@ -1,7 +1,8 @@
 ::-webkit-scrollbar {
-    width: 14px;
+    width: 18px;
     height: 10px;
     background-color: #f1f1f1;
+    border: 10px solid black;
   }
   
 ::-webkit-scrollbar-track {
@@ -9,10 +10,10 @@
 }
 
 ::-webkit-scrollbar-thumb {
-    background-color: #aaaaaa;
-    margin-left: 5px;
-    margin-right: 5px;
+    background-color: #b1b1b1;
     border-radius: 15px;
+    border: 3px solid transparent;
+    background-clip: padding-box;
 }
 
 ::-webkit-scrollbar-thumb:hover {
@@ -43,7 +44,7 @@
 }
 
 ::-webkit-scrollbar-button:single-button:vertical:decrement:hover {
-    background-color: rgba(70, 70, 70, 0.1);
+    background-color: rgb(221, 221, 221);
 }
 
 /* Down */
@@ -60,5 +61,5 @@
 }
 
 ::-webkit-scrollbar-button:vertical:single-button:increment:hover {
-    background-color: rgba(70, 70, 70, 0.1);
+    background-color: rgb(221, 221, 221);
 }
