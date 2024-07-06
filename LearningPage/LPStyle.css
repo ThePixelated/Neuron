@@ -1,0 +1,55 @@
+.bodybg {
+    background-color: rgb(254, 254, 254);
+}
+
+.rowTopContent {
+    border: 1px solid black ;
+    padding-left: 2%;
+}
+
+.rowMidContent {
+    background-color: rgb(236, 115, 115);
+    border: 1px solid #393E41;
+}
+
+.colMidConent {
+    background-color: rgb(146, 188, 236);
+    border: 1px solid black ;
+}
+
+.card-link {
+    background-color: rgba(0, 0, 0, 0)!important;
+    transition: background-color 0.3s, box-shadow 0.3s;
+}
+
+.card-link:hover {
+    transition: background-color 0.3s, box-shadow 0.3s;
+    background-color: rgba(0, 0, 0, 0.15)!important;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+}
+
+.courseList {
+    background-color: rgb(254, 254, 254);
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.titleCourse {
+    background-color: #f5f5f5;
+    padding-top: 4%;
+    padding-bottom: 4%;
+}
+
+.nav-link {
+    color: #44BBA4!important;
+}
+
+.nav-link.active {
+    background-color: #44BBA4!important;
+    color: white!important;
+}
+
+.nav-link:hover {
+    background-color: #44BBA4;
+    color: white!important;
+}
