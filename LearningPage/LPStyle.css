@@ -2,19 +2,23 @@
     background-color: rgb(254, 254, 254);
 }
 
+.rowHeader {
+    border-bottom: 1.5px solid #D3D0CB;
+}
+
 .rowTopContent {
-    border: 1px solid black ;
-    padding-left: 2%;
+    background-color: rgb(254, 254, 254);
+    padding-left: 10%;
 }
 
 .rowMidContent {
-    background-color: rgb(236, 115, 115);
-    border: 1px solid #393E41;
+    /* background-color: rgb(236, 115, 115);
+    border: 1px solid #393E41; */
 }
 
 .colMidConent {
-    background-color: rgb(146, 188, 236);
-    border: 1px solid black ;
+    background-color: rgb(254, 254, 254);
+    border: 0px solid black ;
 }
 
 .card-link {
@@ -38,6 +42,7 @@
     background-color: #f5f5f5;
     padding-top: 4%;
     padding-bottom: 4%;
+    border-bottom: 1.5px solid #D3D0CB;
 }
 
 .nav-link {
