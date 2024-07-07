@@ -1,0 +1,15 @@
+.B {
+    background-color: rgb(255, 144, 144);
+    border: 1px solid black;
+}
+
+.B1 {
+    background-color: rgb(144, 174, 255);
+    border: 1px solid black;
+}
+
+.button-link:hover {
+    border: 1px solid black;
+    border-radius: 5px;
+    transition: background-color 0.3s, box-shadow 0.3s;
+}

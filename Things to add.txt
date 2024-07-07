@@ -1,0 +1,10 @@
+Things to add:
+- Breadcrumb : buat di title CO
+- Placeholder : buat loading
+- Popover : pas Log in / Sign up
+- Scrollspy: Direct ke bagian yang spesifik (CO silabus & desc)
+- Spinners : pas pembayaran
+- Toast : buat info komfirmasi pembayaran
+- Ratio : kalo jadi make vidio & buat gambar
+- Position : buat header nav bar
+- Display: buat ngendaliin content
