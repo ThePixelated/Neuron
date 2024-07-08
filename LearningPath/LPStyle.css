@@ -1,5 +1,5 @@
 .rowTopContent {
-    background-color: rgb(254, 254, 254);
+    background-color: #E7E5DF;
     padding-left: 10%;
 }
 
@@ -9,7 +9,7 @@
 }
 
 .colMidConent {
-    background-color: rgb(254, 254, 254);
+    background-color: #E7E5DF;
     border: 0px solid black ;
 }
 
@@ -25,17 +25,18 @@
 }
 
 .courseList {
-    background-color: rgb(254, 254, 254);
+    background-color: #E7E5DF;
     padding-top: 1%;
     padding-bottom: 1%;
     align-self: center;
 }
 
 .titleCourse {
-    background-color: #f5f5f5;
+    background-color: #393E41;
     padding-top: 4%;
     padding-bottom: 4%;
     border-bottom: 1.5px solid #D3D0CB;
+    color: #E7E5DF;
 }
 
 .nav-link {
@@ -44,10 +45,10 @@
 
 .nav-link.active {
     background-color: #44BBA4!important;
-    color: white!important;
+    color: #E7E5DF!important;
 }
 
 .nav-link:hover {
     background-color: #44BBA4;
-    color: white!important;
+    color: #E7E5DF!important;
 }
