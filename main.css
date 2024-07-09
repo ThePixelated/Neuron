@@ -1,0 +1,55 @@
+body{
+    background-color: #D3D0CB;
+}
+
+:root{
+    --primary-color: #44BBA4;
+    --primary-color-highlight: #54d4bb;
+    --bs-body-bg: #D3D0CB;
+    --bs-body-font-family: "Poppins", sans-serif;
+}
+
+.navclr{
+    background: #393E41;
+  }
+
+.btn-primaryc {
+    width: 110px;
+    background-color: #44BBA4;
+}
+.btn-primaryc:hover {
+    width: 110px;
+    background-color: #2b7d6d;
+}
+
+.btn-secondaryc {
+    width: 110px;
+    background-color: #E7BB41;
+}
+.btn-secondaryc:hover {
+    width: 110px;
+    background-color: #9b7d2b;
+}
+
+.btn-login {
+    width: 180px;
+    background-color: #44BBA4;
+}
+.btn-login:hover {
+    width: 180px;
+    background-color: #2b7d6d;
+}
+
+.btn-signin {
+    margin-top: 45px;
+    width: 250px;
+    height: 50px;
+    text-align: center;
+    padding-top: 10px;
+    background-color: #E7BB41;
+}
+.btn-signin:hover {
+    width: 250px;
+    height: 50px;
+    background-color: #9b7d2b;
+}
